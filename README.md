@@ -1,3 +1,11 @@
+# RoadBoat
+
+> Road Fleet: RoadBoat — AI coworker with memory. PROPRIETARY BlackRoad OS integration.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <a href="https://www.youtube.com/watch?v=5AWoGo-L16I" target="_blank" rel="noopener noreferrer">
   <img width="1339" height="607" alt="rowboat-github-2" src="https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901" />
 </a>
